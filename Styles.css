@@ -2,6 +2,16 @@ body {
     background-color: F0EFEC;
 }
 
+img {
+  width: 100%;
+}
+
 .faces {
     background-color: white;
+}
+
+.header {
+    display: grid;
+    grid-template-columns: 160px 160px;
+  justify-content: center;
 }
