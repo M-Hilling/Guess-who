@@ -1,5 +1,5 @@
 body {
-    background-color: F0EFEC;
+    background-color: #F0EFEC;
 }
 
 img {
@@ -25,5 +25,12 @@ img {
   margin-bottom: 40px;
   margin-left: auto;
   margin-right: auto;
-  
+
+}
+
+
+.round-image {
+  border-radius: 100%;
+  padding: 10px; 
+  background-color: white; 
 }
