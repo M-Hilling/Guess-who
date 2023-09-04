@@ -8,6 +8,9 @@ img {
 
 .faces {
     background-color: white;
+    display: grid;
+    column-gap: 20px;
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
 }
 
 .header {
@@ -15,3 +18,4 @@ img {
     grid-template-columns: 160px 160px;
   justify-content: center;
 }
+
