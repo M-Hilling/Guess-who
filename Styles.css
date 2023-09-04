@@ -19,3 +19,11 @@ img {
   justify-content: center;
 }
 
+.wrap {
+  width: 900px;
+  margin-top: 40px;
+  margin-bottom: 40px;
+  margin-left: auto;
+  margin-right: auto;
+  
+}
